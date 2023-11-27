@@ -11,7 +11,6 @@ MR+ Training Guide
 {: .no_toc .text-delta }
 
 1. agafergeasgfeasf
-{:toc}
 2. test
  
 {:toc}
