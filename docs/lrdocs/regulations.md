@@ -1,5 +1,6 @@
 ---
 title: Staff Regulations
 layout: default
-nav_order: 3
+parent: LR Landing
+nav_order: 4
 ---
