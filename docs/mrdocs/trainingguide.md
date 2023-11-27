@@ -8,6 +8,7 @@ MR+ Training Guide
 {: .no_toc }
 
 ## Table of contents
+{: .no_toc }
 <details open markdown="block">
   <summary>
     Table of contents
