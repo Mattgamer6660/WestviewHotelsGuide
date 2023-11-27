@@ -12,5 +12,5 @@ color_scheme: westview
 callouts:
   warning:
     color: red
-logo: "logo.jpg"
+logo: "logo.png"
 favicon_ico: "favicon.ico"
