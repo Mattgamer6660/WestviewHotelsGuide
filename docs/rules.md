@@ -8,7 +8,7 @@ nav_order: 2
 >
 > They're most likely being worked on or being revamped!
 
-# Lunar Game Guidelines & Rules
+# Westview Hotels and Resorts Rules
 
 ## Player Rules+
 
