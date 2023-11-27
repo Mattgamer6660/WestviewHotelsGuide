@@ -2,7 +2,13 @@ title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://mattgamer6660.github.io/Lunar-Store/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Game: https://www.roblox.com/games/14782345660/Untitled-Game
+  
+color_scheme: lunar
+
+callouts:
+  warning:
+    color: red
