@@ -10,6 +10,8 @@ MR+ Training Guide
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
-2. 
+1. agafergeasgfeasf
+{:toc}
+2. test
+ 
 {:toc}
