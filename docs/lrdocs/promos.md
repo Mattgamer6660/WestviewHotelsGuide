@@ -73,4 +73,38 @@ nav_order: 6
 - Can apply for HR ranks to be ranked up.
 
 ## HR Promotion Guide
-{: .text-purple-000}
+{: .text-red-000}
+
+### 14 | Assistant Director
+{: .text-red-000}
+
+- Can apply for higher HR ranks.
+- Has to be noticed by SHR to be promoted normally
+
+### 15 | Hotel Director
+{: .text-red-000}
+
+- Can apply for higher HR ranks.
+- Has to be noticed by SHR to be promoted normally
+
+### 16 | General Manager
+{: .text-red-000}
+
+- Can apply for higher HR ranks.
+- Has to be noticed by SHR to be promoted normally
+
+### 17 | Executive Assistant
+{: .text-red-000}
+
+- Can apply for higher HR ranks.
+- Has to be noticed by SHR to be promoted normally
+
+### 18 | Hotel Executive
+{: .text-red-000}
+
+- Can apply for SHR a rank.
+- Has to be noticed by SHR to be promoted normally
+
+## Promotion Cooldown
+
+| Rank Number | Cooldown |
