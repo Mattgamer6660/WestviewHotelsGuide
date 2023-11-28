@@ -29,3 +29,6 @@ MR+ Training Guide
 ---
 
 ## Training Guide
+{: .text-blue-200}
+Hosts are required to join in at XX:40 along with the Co Host. At XX:45 the host should send this announcement to the communications server.
+
