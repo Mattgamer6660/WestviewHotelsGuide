@@ -108,3 +108,26 @@ nav_order: 6
 ## Promotion Cooldown
 
 | Rank Number | Cooldown |
+|:------------|:---------|
+| 4 - 7 | No Cooldown |
+| 8 - 10 | 4 Days |
+| 11 - 13 | 1 Week |
+| 14 - 16 | 2 Weeks |
+| 17 - 18 | 3 Weeks |
+
+## Credit Rank Purchasing
+
+| Rank  | Credits |
+|:------------|:---------|
+| Head Receptionist | 500 Credits |
+| Head Security | 750 Credits |
+| Head Services | 1,250 Credits |
+| Hotel Supervisor | 1,750 Credits |
+| Assistant Manager | 2,000 Credits |
+| Hotel Manager | 2,500 Credits |
+| Assistant Director | 3,500 Credits |
+| Hotel Director | 5,000 Credits |
+| General Manager | 8,250 Credits |
+| Executive Assistant | 10,000 Credits |
+| Hotel Executive | 25,000 Credits |
+| Hotel Corporate | 45,000 Credits |
