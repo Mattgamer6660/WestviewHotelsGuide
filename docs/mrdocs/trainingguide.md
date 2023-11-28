@@ -130,3 +130,155 @@ You can then shutdown the server.
 The host should then finally announce:
 
 Training Host: The training has ended! If you didn't make it, don't worry as you are always welcome to attend another one!.
+{: .text-blue-100}
+
+## Trainer Scripts
+
+Trainer: Thank you for attending this training session! My name is (username)! I will be training you on (Reception and Housekeeping, Cafe Working, or Security (Depends on what area you are at.))!
+{: .text-yellow-200}
+
+Trainer: Before I begin, do any of you have any questions?
+{: .text-yellow-000}
+
+Wait about 15 - 20 seconds before continuing. If anyone has a question, answer it before begining.
+
+Trainer: Before we begin, please make sure you have a greeting prepared!
+{: .text-yellow-000}
+
+Trainer: Lets begin!
+{: .text-yellow-000}
+
+### Reception and Housekeeping Trainer Scripts. (Area 1)
+
+Trainer: As Housekeeping/a Receptionist You need to take your job seriously. Use grammar at all times and treat people with respect!
+{: .text-yellow-000}
+
+Trainer: Failure to do so may result in being demoted!
+{: .text-yellow-000}
+
+Trainer: Let me explain what you can do as Housekeeping!
+{: .text-yellow-000}
+
+Trainer: As housekeeping your job is to make sure that the guests rooms are always clean! You can also clean up the hotel!
+{: .text-yellow-200}
+
+Trainer: Housekeeping is one of the lowest ranks, but it is a really important rank!
+{: .text-yellow-000}
+
+Trainer: Now let me explain what you can do as a Receptionist!
+{: .text-yellow-000}
+
+Trainer: As a Receptionist, you can give guests their room keys, assist the guests with any **minor** issues they may have!
+{: .text-yellow-000}
+
+Trainer: You can also clean up the area around the reception desk while you wait!
+{: .text-yellow-000}
+
+Trainer: Now lets begin with your training!
+{: .text-yellow-000}
+
+Trainer: To clean up any messes around the hotel, you can take a broom to sweep up dirt and trash or you can take a mop to clean up spills!
+{: .text-yellow-000}
+
+Trainer: To give a guest a room key, grab a room key from the key room and bring it to the guest! To give it to them, simply click on the guest and click **Ok**!
+{: .text-yellow-200}
+
+Trainer: I will now make a few messes for you to clean up!
+{: .text-yellow-000}
+
+To make dirt spawn in, press the Brown button on your screen!
+To make a spill spawn in, press the Blue button on your screen!
+
+Wait for each trainee to clean up their mess!
+
+Trainer: Now lets train you on giving people room keys!
+{: .text-yellow-000}
+
+Tell a trainee to go to the mini reception desk and wait for the LR to give you their greeting!
+
+After they give thier greeting ask for a room key!
+
+If they have any trouble, you may assist them with doing so!
+
+Do note, you are only allowed to assist them twice before having to dismiss them from the session!
+
+After all the trainees have had a turn you may proceed!
+
+Trainer: Congratuations, you each have passed Area 1!
+{: .text-yellow-000}
+
+Trainer: Please wait for the Host or Co Host to teleport you to Area 2!
+{: .text-yellow-000}
+
+### Cafe Trainer Scripts. (Area 2)
+
+Trainer: As a Cafe Worker, you need to fix customers their drinks and food!
+{: .text-yellow-000}
+
+Trainer: If you feel you are up for the challenge, you can use the Express lane at the end of the Cafe and serve guests custom Espressos and Cappicinos, and Lattes!
+{: .text-yellow-200}
+
+Trainer: Please note that some of the orders can be a little challenging! Feel free to use the **!notepad** command as you wish!
+{: .text-yellow-000}
+
+Trainer: Now let me demonstrate how to make a few drinks!
+{: .text-yellow-000}
+
+Head behind the Cafe counter to demonstrate.
+
+Trainer: First let me show you how to make Iced coffees and Slushies!
+{: .text-yellow-000}
+
+Trainer: To make a Iced Coffee, grab a cold coffee cup, hold it out and touch the cup on the guests desired coffee dispenser!
+{: .text-yellow-000}
+
+Trainer: To make a Slushie, grab the Slushie Cup, hold it out and touch the guests desired flavor slushie dispenser!
+{: .text-yellow-000}
+
+Trainer: Now its time for me to show you how to make the normal coffees!
+{: .text-yellow-000}
+
+Trainer: To make any hot coffee you can grab a coffee mug, hold it out and touch the mug on the guests desired coffee dispenser!
+{: .text-yellow-000}
+
+Trainer: To make a Espresso or Cappicino you can grab the mug and follow the directions that guest gave you! They can list from 2 pumps of vanilla to using different coffee beans!
+{: .text-yellow-200}
+
+Trainer: Now lets begin with your training!
+{: .text-yellow-000}
+
+Wait for the LR to do their greeting.
+
+Trainer: Hello! Can I have a Classic Blend coffee and a Dual Cola Slushie?
+{: .text-yellow-200}
+
+Wait for the LR to prepare your drink.
+
+Wait for the LR to prompt you to pay.
+
+Pay for the drink and make sure they give you the correct drinks, if they did move on to the next LR. If they gave you a incorrect item, fail them.
+
+After your done with each LR, you can then ask for Espressos.
+
+Wait for the LR to do their greeting.
+
+Trainer: Hello! Can I have a Espresso with 2 pumps of vanilla and 1 pump of hazelnut with Dark roasted coffee beans?
+{: .text-yellow-200}
+
+Also remind the LR to use the notepad command.
+
+Wait for the LR to prepare your drink, and if they say they forgot it you can repeat it once.
+
+Wait for the LR to prompt you to pay.
+
+Pay for the drink and make sure they give you the correct drink, if they did move on to the next LR. If they gave you a incorrect item, fail them.
+
+After all the LRs have finished you may pass them.
+
+Trainer: Congratuations, you each have passed Area 2!
+{: .text-yellow-000}
+
+Trainer: Please wait for the Host or Co Host to teleport you to Area 3!
+{: .text-yellow-000}
+
+### Security Trainer Scripts. (Area 3)
