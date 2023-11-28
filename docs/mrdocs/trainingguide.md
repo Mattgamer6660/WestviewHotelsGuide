@@ -28,7 +28,7 @@ Trainer Scripts are this color!
 {: .text-yellow-000}
 
 Trainer Line Check Scripts are this color!
-{: .text-yellow-200}
+{: .text-red-200}
 
 ## Rank Information
 
@@ -135,7 +135,7 @@ Training Host: The training has ended! If you didn't make it, don't worry as you
 ## Trainer Scripts
 
 Trainer: Thank you for attending this training session! My name is (username)! I will be training you on (Reception and Housekeeping, Cafe Working, or Security (Depends on what area you are at.))!
-{: .text-yellow-200}
+{: .text-red-200}
 
 Trainer: Before I begin, do any of you have any questions?
 {: .text-yellow-000}
@@ -160,7 +160,7 @@ Trainer: Let me explain what you can do as Housekeeping!
 {: .text-yellow-000}
 
 Trainer: As housekeeping your job is to make sure that the guests rooms are always clean! You can also clean up the hotel!
-{: .text-yellow-200}
+{: .text-red-200}
 
 Trainer: Housekeeping is one of the lowest ranks, but it is a really important rank!
 {: .text-yellow-000}
@@ -181,7 +181,7 @@ Trainer: To clean up any messes around the hotel, you can take a broom to sweep 
 {: .text-yellow-000}
 
 Trainer: To give a guest a room key, grab a room key from the key room and bring it to the guest! To give it to them, simply click on the guest and click **Ok**!
-{: .text-yellow-200}
+{: .text-red-200}
 
 Trainer: I will now make a few messes for you to clean up!
 {: .text-yellow-000}
@@ -216,7 +216,7 @@ Trainer: As a Cafe Worker, you need to fix customers their drinks and food!
 {: .text-yellow-000}
 
 Trainer: If you feel you are up for the challenge, you can use the Express lane at the end of the Cafe and serve guests custom Espressos and Cappicinos, and Lattes!
-{: .text-yellow-200}
+{: .text-red-200}
 
 Trainer: Please note that some of the orders can be a little challenging! Feel free to use the **!notepad** command as you wish!
 {: .text-yellow-000}
@@ -242,7 +242,7 @@ Trainer: To make any hot coffee you can grab a coffee mug, hold it out and touch
 {: .text-yellow-000}
 
 Trainer: To make a Espresso or Cappicino you can grab the mug and follow the directions that guest gave you! They can list from 2 pumps of vanilla to using different coffee beans!
-{: .text-yellow-200}
+{: .text-red-200}
 
 Trainer: Now lets begin with your training!
 {: .text-yellow-000}
@@ -282,3 +282,57 @@ Trainer: Please wait for the Host or Co Host to teleport you to Area 3!
 {: .text-yellow-000}
 
 ### Security Trainer Scripts. (Area 3)
+
+Trainer: As Hotel Security, you are expected to keep the hotel secure from any threats!
+{: .text-yellow-000}
+
+Trainer: These threats can range from severe weather to fires!
+{: .text-yellow-000}
+
+Trainer: I will explain how to defend the hotel and the guests from three scenarios!
+{: .text-yellow-000}
+
+Trainer: Lets first start with a rouge guest!
+{: .text-yellow-000}
+
+Trainer: As Hotel Security, you have access to the security offce! The security offce has access to the CCTV footage, the fire alarms, and the weather status!
+{: .text-red-200}
+
+Trainer: When someone reports a guest going rouge, your job is to find out where they are and neutralize the threat!
+{: .text-yellow-000}
+
+Trainer: You have access to pepper spray which can neutralize the rouge guest! You have to becareful to not abuse the pepper spray or you can be demoted!
+{: .text-yellow-000}
+
+Trainer: Lets now talk about threats to the building!
+{: .text-yellow-000}
+
+Trainer: The hotel has a chance to catch on fire every 45 - 60 minutes!
+{: .text-yellow-000}
+
+Trainer: When the hotel does catch on fire, the security room will be notified and you should pull the closest pull station! You should then order all the guests to evacuate the building!
+{: .text-yellow-000}
+
+Trainer: After 5 minutes from the fire starting, the fire will be put out by the sprinkler system!
+{: .text-yellow-000}
+
+Trainer: Finally lets talk about the severe weather alerts!
+{: .text-yellow-000}
+
+Trainer: The WAS will send a message to the security office announcing what type of weather emergency there is!
+{: .text-red-200}
+
+Trainer: There are only two types of weather alerts, Tornado storms, and Severe thunderstorms!
+{: .text-yellow-000}
+
+Trainer: If its a severe thunderstorm, advise all guests to unplug any phones and computers!
+{: .text-yellow-000}
+
+Trainer: Or if its a Tornado storm, bring all the guests down stairs to the lobby!
+{: .text-yellow-000}
+
+Trainer: Thats all the information you need to know!
+{: .text-yellow-000}
+
+Trainer: Please wait for the Host or Co Host to teleport you to the Backstage so you can be ranked!
+{: .text-yellow-000}
