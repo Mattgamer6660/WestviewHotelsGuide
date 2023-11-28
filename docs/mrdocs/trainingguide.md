@@ -27,3 +27,5 @@ MR+ Training Guide
 | Trainee    | Ranks the LRs that need a promotion during the training center. | Rank 4-7/1 - 75 Trainees. |
 
 ---
+
+## Training Guide
