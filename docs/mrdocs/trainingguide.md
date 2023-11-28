@@ -250,7 +250,7 @@ Trainer: Now lets begin with your training!
 Wait for the LR to do their greeting.
 
 Trainer: Hello! Can I have a Classic Blend coffee and a Dual Cola Slushie?
-{: .text-yellow-200}
+{: .text-yellow-000}
 
 Wait for the LR to prepare your drink.
 
@@ -263,7 +263,7 @@ After your done with each LR, you can then ask for Espressos.
 Wait for the LR to do their greeting.
 
 Trainer: Hello! Can I have a Espresso with 2 pumps of vanilla and 1 pump of hazelnut with Dark roasted coffee beans?
-{: .text-yellow-200}
+{: .text-yellow-000}
 
 Also remind the LR to use the notepad command.
 
