@@ -16,6 +16,17 @@ MR+ Training Guide
 {:toc}
 </details>
 ---
+## Text Color Information
+
+Host Scripts are this color!
+{: .text-blue-100}
+
+Co Host Scripts are this color!
+{: .text-green-000}
+
+Trainer Scripts are this color!
+{: .text-yellow-000}
+
 ## Rank Information
 
 | Team      | What do they do?        | Allowed Ranks & Allowed Quantity |
@@ -29,6 +40,8 @@ MR+ Training Guide
 ---
 
 ## Training Guide
-{: .text-blue-200}
+{: .text-blue-000}
 Hosts are required to join in at XX:40 along with the Co Host. At XX:45 the host should send this announcement to the communications server.
 
+@session ping A training hosted by (username) is starting in 15 minutes! Any LR staff join in before xx:55 to get trained!.
+{: .text-blue-100}
