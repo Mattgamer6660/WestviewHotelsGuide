@@ -2,7 +2,7 @@
 title: MR+ Training Guide
 layout: default
 parent: MR Landing
-nav_order: 7
+nav_order: 8
 ---
 MR+ Training Guide
 {: .no_toc }
